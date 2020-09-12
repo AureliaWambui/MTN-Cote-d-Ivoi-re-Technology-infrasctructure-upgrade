@@ -17,7 +17,7 @@ Moringa_Data_Science_Prep_W3_Independent_Project_2020_09_Aurelia_Wambui_Python_N
 ## Technologies Used
 {Python Programming, SQL programming}
 ## Support and contact details
-{Ideas, questions, and support can be sent to email: josephinewanjiku748@gmail.com}
+{Ideas, questions, and support can be sent to email: AureliaWambui2020@gmail.com}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 *{MIT}*
